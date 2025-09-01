@@ -1,10 +1,42 @@
-# qareb
-<img width="378" height="578" alt="image" src="https://github.com/user-attachments/assets/e2571dcb-9ff3-4b7a-8392-4d3680568b67" />
+# Qareb  
 
-![unnamed (5)](https://github.com/user-attachments/assets/085a728c-9e5b-4e88-8c82-a9e91e455d63)
-![unnamed (11)](https://github.com/user-attachments/assets/cf9b99c9-14ca-4804-aee4-963c083fa4fd)
-![unnamed (10)](https://github.com/user-attachments/assets/ba3632cb-3af6-49f1-96aa-d48cf8a180cc)
-![unnamed (9)](https://github.com/user-attachments/assets/1aaaa1d3-c880-499b-b095-fe169b3f2325)
-![unnamed (8)](https://github.com/user-attachments/assets/5d6f8487-bee0-4fe6-abb5-bf91a5b308a3)
-![unnamed (7)](https://github.com/user-attachments/assets/68109abf-48ea-49a2-9736-83147a0e08c6)
-![unnamed (6)](https://github.com/user-attachments/assets/ac4c3c12-7023-4e87-8ad9-0c676c44c76b)
+**E-commerce & Local Marketplace Application**  
+
+Qareb is a **Flutter-based mobile app** designed to provide a smooth **e-commerce experience** for local customers.  
+The app combines **shopping, product browsing, and order tracking** with a clean, user-friendly interface.  
+
+---
+
+## 🚀 Features
+- 🛒 Browse and purchase products online  
+- 🔍 Advanced search & filtering for better shopping experience  
+- ❤️ Wishlist & favorites system  
+- 🧾 Order history & real-time order tracking  
+- 🔐 Firebase authentication & secure login  
+- 🌙 Light & dark theme support  
+
+---
+
+
+## 📂 Project Structure
+<img width="378" height="578" alt="image" src="https://github.com/user-attachments/assets/bd54baf0-dca6-4250-a542-d91cbc686182" />
+
+
+## 📸 Screenshots
+
+![unnamed (11)](https://github.com/user-attachments/assets/d7a487f5-db98-454b-b2fa-a67fbf7f2cab)
+![unnamed (10)](https://github.com/user-attachments/assets/9d19587a-e163-4dba-a6e4-a8b5ef2b0224)
+![unnamed (9)](https://github.com/user-attachments/assets/b0a73470-e455-4ba0-a161-f7fa5068067c)
+![unnamed (8)](https://github.com/user-attachments/assets/c036321d-bcb2-4191-9a55-e59efb31716e)
+![unnamed (7)](https://github.com/user-attachments/assets/9a1b7980-13d9-4283-b13c-a42a696f69a9)
+![unnamed (6)](https://github.com/user-attachments/assets/ebce86cd-226e-4ae3-86c0-51073935f9b9)
+![unnamed (5)](https://github.com/user-attachments/assets/1ee9de6d-69bd-432f-840e-1505e4ed0a75)
+
+
+## 📥 Download
+📱 Available on **Google Play**  
+👉 [Download Qareb on Google Play](https://play.google.com/store/apps/details?id=com.semicolon.qareb)
+
+
+
+
